@@ -4,3 +4,6 @@ please go ahead to test it.
 thanks,
 
 Jessica
+
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
