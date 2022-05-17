@@ -6,3 +6,5 @@ thanks,
 Jessica
 
 Git is a distributed version control system.
+Git is a tool that computer science student like it
+Git is a tool that many companies are using it now.
